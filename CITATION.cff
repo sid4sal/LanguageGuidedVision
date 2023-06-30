@@ -4,7 +4,7 @@ authors:
 - family-names: "Sali"
   given-names: "Siddhesh"
   orcid: "https://orcid.org/0000-0001-7735-1229"
-title: "Language Guidance for DML"
+title: "Exploring Multi-Modal Deep Learning"
 version: 1.0.0
 date-released: 2023-06-30
 url: "https://github.com/sid4sal/LanguageGuidedVision"
